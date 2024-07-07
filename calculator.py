@@ -5,7 +5,7 @@ def add(a, b):
 def subtract(a, b):
 	return a-b
 
-def divide_Premium(a, b):
+def divide_brand_new(a, b):
 	return a/b
 
 def multiply(a, b):
